@@ -330,7 +330,7 @@ def extract_passport(image_path):
 
 - **API Reference**: See [API_REFERENCE.md](API_REFERENCE.md)
 - **Troubleshooting**: See [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
-- **GitHub**: [Project Repository](#)
+- **GitHub**: [https://github.com/Mr-Abdalhay/idv](#)
 - **Support**: Open an issue on GitHub
 
 ---
