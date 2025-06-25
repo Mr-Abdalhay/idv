@@ -1,0 +1,34 @@
+{
+  "timestamp": "20250612_064634",
+  "ocr_results": {
+    "passport_type": "PC",
+    "country_code": "SDN",
+    "passport_number": "P118664340",
+    "full_name": "ABDALHAY ABASS MOBARAK ABASS",
+    "nationality": "SUDANESE",
+    "place_of_birth": "KHARTOUM",
+    "sex": "F",
+    "date_of_birth": "04-03-1998",
+    "date_of_issue": "13-04-2024",
+    "date_of_expiry": "12-04-2034",
+    "national_id": "221-5485-0379",
+    "confidence_scores": {
+      "passport_number": 0.95,
+      "national_id": 0.9,
+      "date_of_birth": 0.85,
+      "date_of_issue": 0.8,
+      "date_of_expiry": 0.85,
+      "full_name": 0.85,
+      "sex": 0.95,
+      "place_of_birth": 0.85,
+      "nationality": 0.95
+    },
+    "extraction_method": {
+      "passport_number": "grayscale_standard",
+      "full_name": "grayscale_uniform_block"
+    },
+    "extraction_score": 100.0,
+    "extraction_summary": "10/10 fields extracted"
+  },
+  "face_verification": {
+    "verified": 

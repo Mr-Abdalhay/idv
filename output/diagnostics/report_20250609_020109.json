@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-06-09T02:01:09.792304",
+  "image_path": "C:\\Users\\HP\\Downloads\\Passports\\Passports\\kk.jpg",
+  "image_quality": {
+    "resolution": "168x300",
+    "estimated_dpi": 48,
+    "brightness": 156.20146825396824,
+    "contrast": 79.41066837530386,
+    "sharpness": 2858.253830681532,
+    "noise_level": 8.286944444444444,
+    "skew_angle": 0.0
+  },
+  "ocr_readability": {
+    "total_characters": 0,
+    "total_words": 0,
+    "sample_text": ""
+  },
+  "preprocessing_recommendations": [
+    "Increase image resolution (use higher quality scan/photo)"
+  ],
+  "extraction_problems": [
+    "OCR cannot read the image properly",
+    "Passport number not readable",
+    "Dates not readable",
+    "Names not in readable format"
+  ],
+  "enhanced_image_path": "output/diagnostics\\enhanced_20250609_020109.jpg",
+  "ocr_improvement": 0
+}
